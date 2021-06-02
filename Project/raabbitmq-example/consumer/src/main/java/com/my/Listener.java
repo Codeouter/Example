@@ -14,5 +14,5 @@ public class Listener {
     public void process(Map testMessage) {
         System.out.println("DirectReceiver消费者收到消息  : " + testMessage.toString());
     }
-
+    // dddd
 }
