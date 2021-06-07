@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: consumer
+  rabbitmq:
+    password: admin
+    username: admin
+    host: 192.168.136.128
+    port: 5673
+    listener:
+      simple:
+        acknowledge-mode: manual
