@@ -24,6 +24,23 @@
   <component name="ChangeListManager">
     <list default="true" id="c0063c3a-a020-4203-bd21-422a81bf2c8c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/my/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/com/my/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider/target/classes/com/my/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider/target/classes/com/my/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-ack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbit-ack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbit-modes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/provider-mode-rpc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/src/main/java/com/my/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/src/main/java/com/my/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/src/main/java/com/my/SendController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/src/main/java/com/my/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/target/classes/com/my/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/target/classes/com/my/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/target/classes/com/my/SendController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-modes/provider-mode-rpc/target/classes/com/my/Sender.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +155,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1621509876623">
