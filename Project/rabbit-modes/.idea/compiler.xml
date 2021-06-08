@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer-mode-rpc" />
+        <module name="consumer-mode-topic" />
+        <module name="consumer-mode1" />
+        <module name="provider-mode1 (1)" />
+        <module name="provider-mode-topic" />
+        <module name="provider-mode-publish" />
+        <module name="provider-mode1" />
+        <module name="consumer-mode-publish" />
+        <module name="provider-mode-workqueue" />
+        <module name="provider-mode-rpc" />
+        <module name="consumer-mode-workqueue" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer-mode-publish" target="1.8" />
+      <module name="consumer-mode-rpc" target="1.8" />
+      <module name="consumer-mode-topic" target="1.8" />
+      <module name="consumer-mode-workqueue" target="1.8" />
+      <module name="consumer-mode1" target="1.8" />
+      <module name="provider-mode-publish" target="1.8" />
+      <module name="provider-mode-rpc" target="1.8" />
+      <module name="provider-mode-topic" target="1.8" />
+      <module name="provider-mode-workqueue" target="1.8" />
+      <module name="provider-mode1" target="1.8" />
+      <module name="provider-mode1 (1)" target="1.8" />
+      <module name="rabbit-modes" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer-mode-publish" options="-parameters" />
+      <module name="consumer-mode-rpc" options="-parameters" />
+      <module name="consumer-mode-topic" options="-parameters" />
+      <module name="consumer-mode-workqueue" options="-parameters" />
+      <module name="consumer-mode1" options="-parameters" />
+      <module name="provider-mode-publish" options="-parameters" />
+      <module name="provider-mode-rpc" options="-parameters" />
+      <module name="provider-mode-topic" options="-parameters" />
+      <module name="provider-mode-workqueue" options="-parameters" />
+      <module name="provider-mode1" options="-parameters" />
+      <module name="provider-mode1 (1)" options="-parameters" />
+      <module name="rabbit-modes" options="-parameters" />
+    </option>
+  </component>
+</project>

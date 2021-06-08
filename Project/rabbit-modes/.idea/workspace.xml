@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2b8c36b-a5d4-4e1f-a296-32f1a107f0c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/rabbit-modes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-mode-workqueue/consumer-mode-workqueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-mode1/consumer-mode1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-mode1/src/main/java/com/my/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-mode1/src/main/java/com/my/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-mode1/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-mode-publish/provider-mode-publish.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-mode-workqueue/provider-mode-workqueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-mode1/provider-mode1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbit-modes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raabbitmq-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../raabbitmq-example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raabbitmq-example/consumer/src/main/java/com/my/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raabbitmq-example/consumer/src/main/java/com/my/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raabbitmq-example/consumer/src/main/java/com/my/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raabbitmq-example/consumer/src/main/java/com/my/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raabbitmq-example/consumer/src/main/java/com/my/ReceiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raabbitmq-example/consumer/src/main/java/com/my/ReceiveController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raabbitmq-example/provider/src/main/java/com/my/SendMessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../raabbitmq-example/provider/src/main/java/com/my/SendMessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raabbitmq-example/provider/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../raabbitmq-example/provider/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../raabbitmq-example/provider/target/classes/com/my/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/../raabbitmq-example/provider/target/classes/com/my/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-ack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbit-ack/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:\APP\IDEA\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tcJibbTYJDBlp6BCTfgxEhP5IM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Example\Project\rabbit-modes" />
+      <recent name="D:\Project\Example\Project\rabbit-modes\consumer-mode-publish" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main (3)">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer-mode-topic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="provider-mode-rpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer-mode-rpc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer-mode-publish" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="provider-mode-topic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main (2)" />
+        <item itemvalue="Spring Boot.Main (3)" />
+        <item itemvalue="Spring Boot.Main (1)" />
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="Spring Boot.Main (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2b8c36b-a5d4-4e1f-a296-32f1a107f0c5" name="Default Changelist" comment="" />
+      <created>1623062573758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623062573758</updated>
+      <workItem from="1623062574999" duration="964000" />
+      <workItem from="1623079436818" duration="6273000" />
+      <workItem from="1623122324027" duration="6312000" />
+      <workItem from="1623133281049" duration="7729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="35" key="#Project_Structure" timestamp="1623133797035">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="334" y="35" key="#Project_Structure/0.0.1707.920@0.0.1707.920" timestamp="1623133797035" />
+    <state x="634" y="215" key="FileChooserDialogImpl" timestamp="1623062604493">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="634" y="215" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1623062604493" />
+    <state width="1663" height="353" key="GridCell.Tab.0.bottom" timestamp="1623141889794">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1623141889794" />
+    <state width="1663" height="353" key="GridCell.Tab.0.center" timestamp="1623141889793">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1623141889793" />
+    <state width="1663" height="353" key="GridCell.Tab.0.left" timestamp="1623141889793">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1623141889793" />
+    <state width="1663" height="353" key="GridCell.Tab.0.right" timestamp="1623141889794">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1623141889794" />
+    <state width="1663" height="353" key="GridCell.Tab.1.bottom" timestamp="1623141889794">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1623141889794" />
+    <state width="1663" height="353" key="GridCell.Tab.1.center" timestamp="1623141889794">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1623141889794" />
+    <state width="1663" height="353" key="GridCell.Tab.1.left" timestamp="1623141889794">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1623141889794" />
+    <state width="1663" height="353" key="GridCell.Tab.1.right" timestamp="1623141889794">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="353" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1623141889794" />
+    <state x="355" y="70" key="SettingsEditor" timestamp="1623079656695">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="355" y="70" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1623079656695" />
+    <state x="241" y="121" key="new project wizard" timestamp="1623118854974">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="241" y="121" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1623118854974" />
+  </component>
+</project>

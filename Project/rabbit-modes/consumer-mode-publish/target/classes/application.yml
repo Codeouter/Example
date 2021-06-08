@@ -1,0 +1,15 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: consumer-mode1
+  rabbitmq:
+    port: 5673
+    host: 192.168.136.128
+    username: admin
+    password: admin
+my:
+  consumer:
+    queue1: myQueue1
+    exchange: myExchange
+    queue2: myQueue2

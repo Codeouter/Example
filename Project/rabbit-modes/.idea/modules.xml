@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer-mode-publish/consumer-mode-publish.iml" filepath="$PROJECT_DIR$/consumer-mode-publish/consumer-mode-publish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-mode-rpc/consumer-mode-rpc.iml" filepath="$PROJECT_DIR$/consumer-mode-rpc/consumer-mode-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-mode-topic/consumer-mode-topic.iml" filepath="$PROJECT_DIR$/consumer-mode-topic/consumer-mode-topic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-mode-workqueue/consumer-mode-workqueue.iml" filepath="$PROJECT_DIR$/consumer-mode-workqueue/consumer-mode-workqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-mode1/consumer-mode1.iml" filepath="$PROJECT_DIR$/consumer-mode1/consumer-mode1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-mode-publish/provider-mode-publish.iml" filepath="$PROJECT_DIR$/provider-mode-publish/provider-mode-publish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-mode-rpc/provider-mode-rpc.iml" filepath="$PROJECT_DIR$/provider-mode-rpc/provider-mode-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-mode-topic/provider-mode-topic.iml" filepath="$PROJECT_DIR$/provider-mode-topic/provider-mode-topic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-mode-workqueue/provider-mode-workqueue.iml" filepath="$PROJECT_DIR$/provider-mode-workqueue/provider-mode-workqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-mode1/provider-mode1.iml" filepath="$PROJECT_DIR$/provider-mode1/provider-mode1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-mode-workqueue/provider-mode1 (1).iml" filepath="$PROJECT_DIR$/provider-mode-workqueue/provider-mode1 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rabbit-modes.iml" filepath="$PROJECT_DIR$/.idea/rabbit-modes.iml" />
+    </modules>
+  </component>
+</project>

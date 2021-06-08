@@ -1,0 +1,15 @@
+server:
+  port: 8084
+spring:
+  application:
+    name: provider-mode-workqueue
+  rabbitmq:
+    port: 5673
+    host: 192.168.136.128
+    username: admin
+    password: admin
+my:
+  provider:
+    queue1: myQueue1
+    exchange: myExchange
+    queue2: myQueue2
